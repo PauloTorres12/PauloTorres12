@@ -10,7 +10,6 @@
 </p>
 
 <h3 align="center">📊 My GitHub Metrics</h3>
-
 <p align="center">
   <img src="./github-metrics.svg" />
 </p>
@@ -18,7 +17,6 @@
 <br>
 
 <h3 align="center">📋 Languages</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
@@ -31,7 +29,6 @@
 <br>
 
 <h3 align="center">🔧 Tools</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -46,7 +43,6 @@
 <br>
 
 <h3 align="center">💻 Frameworks</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
@@ -60,7 +56,6 @@
 <br>
 
 <h3 align="center">💾 Databases</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -71,13 +66,28 @@
 
 <br>
 
-<h3 align="center">⏱ Streak Stats</h3>
+<h3 align="center">📱 Contact Me</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulotorres12/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:torrespaulo33@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/paulot180/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">⏱ Streak Stats</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PauloTorres12&theme=dark" />
   </a>
 </p>
+
+<h2></h2>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPauloTorres12&countColor=%23d9e3f0" />
