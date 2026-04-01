@@ -12,5 +12,4 @@ Mis contactos:
 # Estadisticas de Github
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PauloTorres12&theme=highcontrast&locale=es)](https://git.io/streak-stats)
 
-![PauloTorres12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloTorres12&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
