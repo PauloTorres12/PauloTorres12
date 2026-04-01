@@ -12,4 +12,32 @@ Mis contactos:
 # Estadisticas de Github
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PauloTorres12&theme=highcontrast&locale=es)](https://git.io/streak-stats)
 
+.github/workflows/metrics.yml
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 3 AM Argentina (UTC-3 → 6 AM UTC)
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: TU_USUARIO_GITHUB
+          template: classic
+
+          base: header, activity, community, repositories
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
 
