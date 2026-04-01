@@ -68,17 +68,19 @@
 
 <h3 align="center">📱 Contact Me</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/paulotorres12/" target="_blank" style="text-decoration: none;">
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulotorres12/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:torrespaulo33@gmail.com" style="text-decoration: none;">
+  &nbsp;
+  <a href="mailto:torrespaulo33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/paulot180/" target="_blank" style="text-decoration: none;">
+  &nbsp;
+  <a href="https://www.instagram.com/paulot180/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-</p>
+</div>
 
 <h3 align="center">⏱ Streak Stats</h3>
 <p align="center">
